@@ -1,6 +1,6 @@
 ﻿## djBase64++
 
-Jeg skrev litt kode for Base64 enkoding og dekoding hvor jeg tok utgangspunkt i wikipedia artikkelen om Base64.  
+Jeg skrev litt kode for Base64 enkoding og dekoding hvor jeg tok utgangspunkt i [wikipedia artikkelen](https://en.wikipedia.org/wiki/Base64) om Base64.  
 
 Koden er kjapt skrevet og jeg har iblant vurdert å skrive den i mer idiomatisk c++, men har verken hatt tid eller ork siden jeg holdt på med det.  
 
